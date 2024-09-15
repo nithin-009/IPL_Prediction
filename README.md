@@ -30,3 +30,8 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/IPL_Prediction.git
    cd IPL_Prediction
+
+## Contact
+If you have any questions or feedback, please feel free to reach out via vnithin003@gmail.com.
+
+
